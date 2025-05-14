@@ -1,0 +1,41 @@
+section {
+  margin-top: 56px;
+}
+.navbar {
+  background-color: #c18e00;
+}
+.hero {
+  background-color: #1e1e1e;
+}
+.hero img {
+  max-width: 40%;
+}
+.hero .btn {
+  background-color: white;
+  color: #c18e00;
+}
+.hero .btn:hover {
+  background-color: #c18e00;
+  color: white;
+}
+h1 span {
+  color: #c18e00;
+}
+.pendidikan img {
+  max-width: 90%;
+}
+.pendidikan .btn {
+  background-color: #c18e00;
+  color: white;
+}
+.pendidikan .btn:hover {
+  background-color: #1e1e1e;
+  color: #c18e00;
+}
+.kontak {
+  background-color: #1e1e1e;
+  color: white;
+}
+.kontak ul li {
+  list-style: none;
+}
